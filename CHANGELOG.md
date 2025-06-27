@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2025-06-27: style(utils): add session handling
 - 2026-02-18: fix(core): sync schema changes
 - 2026-03-13: Update type definitions
 - 2026-04-01: feat(api): add rate limiting

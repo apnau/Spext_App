@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-02-18: fix(core): sync schema changes
 - 2026-03-13: Update type definitions
 - 2026-04-01: feat(api): add rate limiting
 - 2026-05-07: test(middleware): sync schema changes
